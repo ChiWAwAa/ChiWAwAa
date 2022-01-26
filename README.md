@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChiWAwAa
-- 👀 I’m interested in I am interested in computer development
+- 👀 I’m interested in computer development
 - 🌱 I’m currently learning the c langage
